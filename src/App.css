@@ -1,0 +1,47 @@
+.download-btn {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.download-btn:hover {
+  background-color: #0056b3;
+}
+
+.resume-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.profile-img-container {
+  margin-right: 20px;
+}
+
+.profile-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.resume-header-text {
+  text-align: center;
+}
+
+.resume-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
