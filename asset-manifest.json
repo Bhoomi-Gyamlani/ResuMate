@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ResuMate/static/css/main.ca67ef22.css",
-    "main.js": "/ResuMate/static/js/main.7cf9bcfd.js",
+    "main.js": "/ResuMate/static/js/main.ffb171fe.js",
     "static/js/359.0376fe93.chunk.js": "/ResuMate/static/js/359.0376fe93.chunk.js",
     "static/js/767.3b3f3e20.chunk.js": "/ResuMate/static/js/767.3b3f3e20.chunk.js",
     "static/js/568.fb8a33b5.chunk.js": "/ResuMate/static/js/568.fb8a33b5.chunk.js",
     "index.html": "/ResuMate/index.html",
     "main.ca67ef22.css.map": "/ResuMate/static/css/main.ca67ef22.css.map",
-    "main.7cf9bcfd.js.map": "/ResuMate/static/js/main.7cf9bcfd.js.map",
+    "main.ffb171fe.js.map": "/ResuMate/static/js/main.ffb171fe.js.map",
     "359.0376fe93.chunk.js.map": "/ResuMate/static/js/359.0376fe93.chunk.js.map",
     "767.3b3f3e20.chunk.js.map": "/ResuMate/static/js/767.3b3f3e20.chunk.js.map",
     "568.fb8a33b5.chunk.js.map": "/ResuMate/static/js/568.fb8a33b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.7cf9bcfd.js"
+    "static/js/main.ffb171fe.js"
   ]
 }
